@@ -1,0 +1,11 @@
+.row-container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+     margin: auto;
+}
+
+.board-container{
+
+    margin: 50px;
+}
